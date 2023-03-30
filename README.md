@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Smae / Hi / Hola
+- 💬 Ask me about ferns!
+- 🌱 I’m currently learning R 🤔
 <!--
 **duckinwales/duckinwales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
